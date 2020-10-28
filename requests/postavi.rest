@@ -1,0 +1,7 @@
+POST http://localhost:3002/api/korisnici
+content-type: application/json 
+
+{  
+    "sadrzaj": "sample",  
+    "vazno": true
+}
